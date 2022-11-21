@@ -1,5 +1,5 @@
 import React from "react";
-import Pagination from "@material-ui/lab/Pagination";
+import { Pagination } from '@mui/material';
 import { createTheme, ThemeProvider } from "@material-ui/core";
 
 const darkTheme = createTheme({

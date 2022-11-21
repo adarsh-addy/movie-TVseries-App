@@ -1,5 +1,8 @@
 .search {
     display: flex;
     margin: 15px 0;
+    
   }
- 
+ .searchBox{
+  color: black !important;
+ }
